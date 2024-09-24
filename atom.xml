@@ -108,9 +108,9 @@
     <category term="前端开发" scheme="http://example.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="开发" scheme="http://example.com/tags/%E5%BC%80%E5%8F%91/"/>
-    
     <category term="AI小课堂" scheme="http://example.com/tags/AI%E5%B0%8F%E8%AF%BE%E5%A0%82/"/>
+    
+    <category term="开发" scheme="http://example.com/tags/%E5%BC%80%E5%8F%91/"/>
     
     <category term="前端" scheme="http://example.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
@@ -129,13 +129,13 @@
     <category term="后端开发" scheme="http://example.com/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="Java" scheme="http://example.com/tags/Java/"/>
+    <category term="AI小课堂" scheme="http://example.com/tags/AI%E5%B0%8F%E8%AF%BE%E5%A0%82/"/>
     
     <category term="开发" scheme="http://example.com/tags/%E5%BC%80%E5%8F%91/"/>
     
     <category term="后端" scheme="http://example.com/tags/%E5%90%8E%E7%AB%AF/"/>
     
-    <category term="AI小课堂" scheme="http://example.com/tags/AI%E5%B0%8F%E8%AF%BE%E5%A0%82/"/>
+    <category term="Java" scheme="http://example.com/tags/Java/"/>
     
     <category term="JavaScript" scheme="http://example.com/tags/JavaScript/"/>
     
@@ -202,13 +202,13 @@
     <category term="API设计" scheme="http://example.com/categories/API%E8%AE%BE%E8%AE%A1/"/>
     
     
-    <category term="AI小课堂" scheme="http://example.com/tags/AI%E5%B0%8F%E8%AF%BE%E5%A0%82/"/>
-    
     <category term="Restful" scheme="http://example.com/tags/Restful/"/>
     
     <category term="GraphQL" scheme="http://example.com/tags/GraphQL/"/>
     
     <category term="RPC" scheme="http://example.com/tags/RPC/"/>
+    
+    <category term="AI小课堂" scheme="http://example.com/tags/AI%E5%B0%8F%E8%AF%BE%E5%A0%82/"/>
     
   </entry>
   
