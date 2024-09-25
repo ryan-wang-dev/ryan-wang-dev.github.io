@@ -468,13 +468,6 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E4%BA%91%E6%9C%8D%E5%8A%A1/</loc>
-    <lastmod>2024-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2024-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -497,6 +490,13 @@
   
   <url>
     <loc>http://example.com/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/</loc>
+    <lastmod>2024-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E4%BA%91%E6%9C%8D%E5%8A%A1/</loc>
     <lastmod>2024-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
