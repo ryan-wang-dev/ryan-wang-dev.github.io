@@ -5856,10 +5856,8 @@ body[data-type='about'] #web_bg {
   -webkit-justify-content: space-between;
   justify-content: space-between;
 }
-@media screen and (max-width: 768px) {
-  .article-sort-item-info .article-sort-item-index {
-    display: none;
-  }
+.article-sort-item-info .article-sort-item-index {
+  display: none;
 }
 .article-sort-item-info .article-sort-item-title {
   height: 30%;
