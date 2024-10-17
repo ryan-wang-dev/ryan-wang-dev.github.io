@@ -2664,7 +2664,7 @@ i.anzhiyu-icon-hashtag {
   --animation-in: cubic-bezier(0.6, 0.2, 0.25, 1);
   --animation-ot: opacity 0.5s var(--animation-in) backwards, transform 1s var(--animation-in) backwards;
   --animation-otf: opacity 0.5s var(--animation-in) backwards, transform 1s var(--animation-in) backwards, filter 0.7s var(--animation-in) backwards;
-  --global-font-size: 16px;
+  --global-font-size: 19px;
   --global-bg: #fff;
   --font-color: #4c4948;
   --hr-border: rgba(161,172,247,0.137);
@@ -2981,7 +2981,7 @@ a:hover {
 #site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+  font-family: saobao, muyao, muk, anzumoji, honyaji, PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
 }
 .is-center {
   text-align: center;
@@ -3331,8 +3331,8 @@ figure.highlight pre .javascript .function {
 }
 #article-container pre,
 #article-container code {
-  font-size: var(--global-font-size);
-  font-family: consolas, Menlo, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif !important;
+  font-size: 16px;
+  font-family: CascadiaCodePL, consolas, Menlo, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -3359,7 +3359,7 @@ figure.highlight pre .javascript .function {
 #article-container figure.highlight figcaption,
 #article-container figure.highlight .caption {
   padding: 6px 0 2px 14px;
-  font-size: var(--global-font-size);
+  font-size: 16px;
   line-height: 1em;
 }
 #article-container figure.highlight figcaption a,
@@ -3391,7 +3391,7 @@ figure.highlight pre .javascript .function {
   height: 2.15em;
   background: var(--hltools-bg);
   color: var(--hltools-color);
-  font-size: var(--global-font-size);
+  font-size: 16px;
   border-bottom: var(--style-border-always);
 }
 #article-container .highlight-tools.closed {
@@ -3487,7 +3487,7 @@ figure.highlight pre .javascript .function {
   font-size: 20px;
   background: var(--anzhiyu-secondbg);
   text-align: center;
-  font-size: var(--global-font-size);
+  font-size: 16px;
   cursor: pointer;
   -webkit-transform: translateZ(0);
   -moz-transform: translateZ(0);
@@ -3685,7 +3685,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+  font-family: saobao, muyao, muk, anzumoji, honyaji, PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
@@ -11680,7 +11680,7 @@ h1.page-title + .tag-cloud-list {
   width: 100%;
   position: absolute;
   left: 0;
-  bottom: -11px;
+  bottom: -12px;
   z-index: 5;
   pointer-events: none;
 }
