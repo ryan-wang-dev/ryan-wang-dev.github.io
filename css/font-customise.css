@@ -43,3 +43,8 @@
   font-display: swap;
   src: url('/font/思源柔黑体.ttf') format("truetype");
 }
+@font-face {
+  font-family: 'HYTangMeiRen55W';
+  font-display: swap;
+  src: url('/font/HYTangMeiRen55W.ttf') format("truetype");
+}
