@@ -4,8 +4,8 @@ body::-webkit-scrollbar {
 }
 
 .neko {
-    width: 64px;
-    height: 64px;
+    width: 96px;
+    height: 96px;
     background-image: url("https://bu.dusays.com/2022/07/20/62d812db74be9.png");
     position: absolute;
     right: 32px;
