@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'muyao';
+    font-display: swap;
+    src: url('/font/muyao.ttf') format("truetype");
+}
+@font-face {
+  font-family: 'muk';
+  font-display: swap;
+  src: url('/font/muk.ttf') format("truetype");
+}
+@font-face {
+  font-family: 'saobao';
+  font-display: swap;
+  src: url('/font/saobao.otf') format("truetype");
+}
+@font-face {
+  font-family: 'jitama-cartoon';
+  font-display: swap;
+  src: url('/font/jitama-cartoon.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'honyaji';
+    font-display: swap;
+    src: url('/font/honyaji.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'anzumoji';
+    font-display: swap;
+    src: url('/font/anzumoji.ttf') format("truetype");
+}
+@font-face {
+  font-family: 'SetoFont';
+  font-display: swap;
+  src: url('/font/SetoFont.ttf') format("truetype");
+}
+@font-face {
+  font-family: 'GenJyuuGothic-P-Regular';
+  font-display: swap;
+  src: url('/font/GenJyuuGothic-P-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: '思源柔黑体';
+  font-display: swap;
+  src: url('/font/思源柔黑体.ttf') format("truetype");
+}
+@font-face {
+  font-family: 'HYTangMeiRen55W';
+  font-display: swap;
+  src: url('/font/HYTangMeiRen55W.ttf') format("truetype");
+}
